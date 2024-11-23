@@ -5,6 +5,7 @@
 
 🔞・NO CONTENIDO (+18)
 > Está prohibido compartir contenido para adultos +18 o explicito en el servidor, incluyendo imágenes, videos, gifs, enlaces o cualquier otro contenido explícito. Los miembros que violen esta regla serán sancionados y podrían ser expulsados del servidor. Mantengamos un ambiente seguro y respetuoso para todos los miembros.
+
 🖕・NO RAID O ATAQUES
 > Está prohibido realizar ataques organizados contra el servidor de Discord. Cualquier intento de dañar o interrumpir el funcionamiento del servidor será considerado una violación grave de las normas, y cualquier miembro que participe en estas actividades enfrentará sanciones. Mantengamos un ambiente seguro y protejamos la integridad del servidor para todos los miembros.
 
