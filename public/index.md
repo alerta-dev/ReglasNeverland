@@ -25,6 +25,7 @@
 > Se espera que los miembros no suplanten la identidad de otras personas ya sea fuera o dentro del servidor. Tanto como acto difamatorio como en alguna otra situación que pueda traer a un mal entendido
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
