@@ -24,11 +24,30 @@
 👤・NO SUPLANTAR IDENTIDAD
 > Se espera que los miembros no suplanten la identidad de otras personas ya sea fuera o dentro del servidor. Tanto como acto difamatorio como en alguna otra situación que pueda traer a un mal entendido
 
+🔗・NO SPAM DE OTROS GRUPOS
+> En este servidor no esta permitido cualquier tipo de invitación o spam de otros grupos sin importar de que sean o que esten bien moderados. Solo se puede considerar dentro de las reglas siempre y cuando esto se haga a traves de MD y no debe de tratarse de un spam engañoso o descarado por parte del que invita. (No tenemos responsabilidad a ningun grupo de 3ros)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+# SOBRE LOS BANEOS Y LOS PREVENTIVOS
+Los baneos se pueden apelar segun el nivel de acontecimientos que hallas echo. Se tiene oportunidad de apelar siempre que lo que hallas echo entre a lo menor de las faltas y dependiendo de que tanto quieras coperar para solucionar el tema y llevar el mejor procedimiento para que todo termine en buenos pasos, para que despues de tu reinserccion no vuelvas a tener problemas con algunos usuarios.
+**¿Me pueden Banear si cometi actos inmorales en otros servidores?**
+Si, te podemos banear por cosas que hiciste en otros servidores. Por un motivo de seguridad, tenemos cierta responsabilidad, de mantener a nuestros usuarios seguros y contentos por lo que algunos pueden informar al STAFF de ciertos actos cometidos por dichas personas.
+**¿Puedo Reintegrarme despues de un ban preventivo?**
+Si, puedes pedir una apelacion del ban. Esto en caso de que hallas caído en actos difamatorios o si quieres disculparte y prometer que no volvera a pasar, a la administración. Todo se tomara en cuenta, para que puedas apelar o pedir el desban. Se tendrá en cuenta, si la persona que te acuso DEPENDIENDO EL GRADO DE TUS ACCIONES Presenta pruebas. Vamos a tomar en consideracion tu situación y tomar la mejor desición para los usuarios.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+**Información con respecto a las reglas**
+Nuestro objetivo es la seguridad de los usuarios para evitar cualquier situación que los ponga en riesgo. Por lo que la administración a tomado ciertas decisiones para evitar lagunas de toxicidad.
+**Sobre el manejo de Llamados de Atención**
+Los llamados de atención hacia los usuarios pueden variar dependiendo de la gravedad de estos actos.
+**Sobre lo moral**
+A partir de ahora si llegamos a ver que estas involucrado en cualquier acto reprochable, si sabias respecto a algo o colaboraste indirectamente con ciertos actos, la administración puede tomar la decisión de Mutearte o Banearte
+**Sobre la Corrupción**
+En caso de ver algún [Administrador/Moderador/Staff] Abusando del poder que se le dio en el servidor puede reportarse de inmediato con alguna otra persona de la administración.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
